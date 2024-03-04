@@ -6,5 +6,15 @@ A program a Hajdúhelp projekt keretében készült mobil applikációk háttér
 
 <table>
 <tr>
-
+<td><img src="printscreen/hajduhelp_01.png" alt="alt szöveg" width="720"></td>
 </tr>
+<tr>
+<td><img src="printscreen/hajduhelp_02.png" alt="alt szöveg" width="720"></td>
+</tr>
+<tr>
+<td><img src="printscreen/hajduhelp_03.png" alt="alt szöveg" width="720"></td>
+</tr>
+<tr>
+<td><img src="printscreen/hajduhelp_04.png" alt="alt szöveg" width="720"></td>
+</tr>
+</table>
