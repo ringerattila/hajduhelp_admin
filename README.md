@@ -4,6 +4,9 @@
 
 A program a Hajdúhelp projekt keretében készült mobil applikációk háttérprogramja, az adminisztrációs felületet biztosítja. Itt lehet az adatokat karbantartani, amiket a mobil applikáció API-kérésekkel lehívhat.
 
+Az itt található fájlok csak demonstrációs céllal vannak feltöltve, önmagukban működésképtelenek. A teljes projekt több száz fájlból áll.
+
+
 <table>
 <tr>
 <td><img src="printscreen/hajduhelp_01.png" alt="alt szöveg" width="720"></td>
